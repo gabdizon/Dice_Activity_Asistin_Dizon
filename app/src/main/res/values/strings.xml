@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Activity_Asistin_Dizon</string>
+    <string name="game">Game</string>
+    <string name="dice_no_1">Dice No. 1</string>
+    <string name="dice_no_2">Dice No. 2</string>
+    <string name="dice_no_3">Dice No. 3</string>
+    <string name="lucky_unlucky">Lucky/Unlucky</string>
+</resources>
